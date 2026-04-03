@@ -129,14 +129,14 @@ npm install
 npm run dev
 ```
 
----
+
 
 ### 🔹 Default URLs
 
 * Frontend: http://localhost:5173
 * Backend: http://localhost:5000
 
----
+
 
 ##  Usage Flow
 
@@ -161,7 +161,7 @@ The system is built as a modular full-stack application:
 * **Analysis Module**: Generates insights and reports
 * **Question Paper Module**: Auto-generates papers from syllabus
 
----
+
 
 ##  Scalability
 
@@ -171,7 +171,7 @@ The system is built as a modular full-stack application:
 * Supports asynchronous processing for large evaluations
 * Frontend can be deployed via CDN
 
----
+
 
 ##  Feasibility
 
@@ -180,7 +180,7 @@ The system is built as a modular full-stack application:
 * Simple UI for faculty usage
 * Can be implemented incrementally in institutions
 
----
+
 
 ##  Impact
 
@@ -198,7 +198,6 @@ The system is built as a modular full-stack application:
 * Supports accreditation and reporting
 * Potential SaaS scalability
 
----
 
 ##  Performance
 
@@ -207,7 +206,7 @@ The system is built as a modular full-stack application:
 * Marks validation ensures accuracy
 * AI fallback mechanisms improve reliability
 
----
+
 
 ##  Future Scope
 
@@ -220,14 +219,14 @@ The system is built as a modular full-stack application:
 * Mobile application
 * Personalized student improvement plans
 
----
+
 
 ##  Point of Contact
 
-**Name:** Your Name
-**Email:** [your-email@example.com](mailto:your-email@example.com)
-**GitHub:** https://github.com/your-username
-**College:** Your College Name
+**Name:** Tankala Sai Sanjana
+**Email:** sanjutankala2005@gmail.com
+**GitHub:** https://github.com/SanjanaTankala
+**College:** Gayatri vidya parishad college of engineering ,Vishakapatnam
 
 ---
 
